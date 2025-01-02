@@ -1,6 +1,6 @@
 # SMS Spam Classifier
 
-![Image Alt]()
+![Image Alt](https://github.com/Deepikachawhan/sms-spam-classifier/blob/main/Screenshot.png?raw=true)
 
 
 
